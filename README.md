@@ -19,7 +19,7 @@
 
 ## 🚀 My PROJECT
 <p align="center">
-  <img src="https://github.com/s-movakel/Music-Player-1/raw/main/previews/0.png" alt="My Project" width="1200" />
+  <img src="https://github.com/s-movakel/Music-Player-1/raw/main/previews/Music-player.png" alt="My Project" width="1200" />
 </p>
 
 
