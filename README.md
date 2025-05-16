@@ -15,7 +15,7 @@
 ## 👀 VIEW DEMO
 🖥️ Please click on the **LINK** below to view the demo.
 
-
+[![View Demo](https://img.shields.io/badge/View-Demo-yellow?style=for-the-badge&logo=js)](https://s-movakel.github.io/Music-Player-1)
 
 ## 🚀 My PROJECT
 <p align="center">
